@@ -1,1 +1,1 @@
-# alarn-clock
+# alarm-clock
